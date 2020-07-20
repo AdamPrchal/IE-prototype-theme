@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="clearDB heroku" uuid="c795562a-a6f1-48e4-94d2-1cb4c9781c48">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://bc3a4e53f6074e:04e64c9d@eu-cdbr-west-03.cleardb.net:3306/heroku_977838bdf3c19f8</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hostingerDB" uuid="b20cc01b-bd96-4530-aff5-d792c6557829">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sql147.main-hosting.eu:3306/u172947957_ietesting</jdbc-url>
+    </data-source>
+  </component>
+</project>
