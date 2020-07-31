@@ -8,7 +8,7 @@
             <span class="material-icons">
               mail
               </span>
-            <h4>support@influentialenglish.com</h4>
+            <h4>info@influentialenglish.com</h4>
           </div>
         </div>
         <div class="footer__item">
@@ -18,7 +18,7 @@
               </span>
               <div>
                 <h4>Find us here</h4>
-                <p>57 Skylines Village,<br>
+                <p>56 Skylines Village,<br>
                   Isle of Dogs,<br>
                   London E14 9TS</p>
               </div>

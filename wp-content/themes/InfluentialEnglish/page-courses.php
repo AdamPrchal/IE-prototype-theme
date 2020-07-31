@@ -1,12 +1,4 @@
 <?php get_header(); ?>
-    <iframe
-            title="Video banner"
-            class="carousel-video"
-            src="https://www.youtube.com/embed/JdOeay8ZFFo?playlist=JdOeay8ZFFo&loop=1;rel=0&autoplay=1&controls=0&showinfo=0&mute=1"
-            frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope;"
-            allowfullscreen
-    ></iframe>
     </header>
     <main>
     <div class="triangle"></div>
@@ -27,7 +19,7 @@
                         confidently or would like a change of career.
 
                     </p>
-                    <a href="<?php echo esc_url( get_permalink( get_page_by_title( 'General English courses' ) ) ); ?>">Find out more</a>
+                    <a href="<?php echo esc_url( get_permalink( get_page_by_title( 'Live online courses' ) ) ); ?>">Find out more</a>
                 </div>
                 <div class="program-info__item">
                     <h4>IELTS academic courses</h4>
@@ -35,7 +27,7 @@
                         their CV, immigration, OR visa purposes. This certificate is also required if you want to study at
                         university in the UK (or the USA, Australia, New Zealand, Canada, or South Africa). Find out more
                     </p>
-                    <a href="<?php echo esc_url( get_permalink( get_page_by_title( 'IELTS Academic course' ) ) ); ?>">Find out more</a>
+                    <a href="<?php echo esc_url( get_permalink( get_page_by_title( 'Live online courses' ) ) ); ?>">Find out more</a>
                 </div>
 
             </div>

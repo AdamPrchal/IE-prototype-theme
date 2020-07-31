@@ -34,6 +34,10 @@ function toggleMenu(){
   }
 }
 
+function toggleItem() {
+
+}
+
 function recolorMenu(){
   
 }
